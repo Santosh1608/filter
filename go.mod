@@ -1,3 +1,3 @@
-module github.com/santhosh1608/filter
+module github.com/santosh1608/filter
 
 go 1.21.4
